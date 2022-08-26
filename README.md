@@ -11,14 +11,6 @@
   * PostgreSQL create table, insert, update, etc. methods.
 
 
- CRUDStudent_using_FILE;
- in this project,
- the student information system is to allow the administrator to edit and find out details of a student,
- but all operations happen on the local csv file.
- 
- Used--->
- * Collection ArrayList, Java I/O
- * cvs file(for use in database).
 
 
  CRUDStudent_using_CONSOLE;
