@@ -1,5 +1,5 @@
 
-# CRUD_Operation_on_the_Console-File-JDBC
+# CRUD_Operation_on_the_Console-JDBC
 
  CRUDStudent_using_JDBC;
  in this project,
